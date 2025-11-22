@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyash
 
-### **Software Developer | AI/ML Enthusiast | Backend-Focused Engineer**
+### **Software Developer | AI/ML Enthusiast **
 
 I am a developer passionate about building **clean, reliable, and efficient software**. My work mainly focuses on **software development**, **AI/ML fundamentals**, and creating practical applications using modern engineering practices.
 
