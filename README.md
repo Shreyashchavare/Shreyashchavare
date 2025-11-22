@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyash
 
-<!--
-**Shreyashchavare/Shreyashchavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Software Developer | AI/ML Enthusiast | Backend-Focused Engineer**
 
-Here are some ideas to get you started:
+I am a developer passionate about building **clean, reliable, and efficient software**. My work mainly focuses on **software development**, **AI/ML fundamentals**, and creating practical applications using modern engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, improving system design skills, and writing code that is both functional and maintainable.
+
+---
+
+## 🛠 Skills & Technologies
+
+* **Languages:** Python, Java, C++, JavaScript
+* **Backend:** Flask, SpringBoot
+* **Databases:** PostgreSQL, MySQL
+* **AI/ML:** NumPy, Pandas, Scikit‑Learn
+* **Tools:** Git, Docker, Linux, VS Code, IntelliJ
+
+---
+
+## 📌 Featured Work
+
+* **Hostel Management System** – Java + PostgreSQL backend application
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashchavare&theme=transparent" height="160" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyashchavare&show_icons=true&theme=transparent" height="160" />
+</div>
+
+---
+
+## 📬 Contact
+
+* **LinkedIn:** linkedin.com/in/shreyashchavare
+* **GitHub:** github.com/shreyashchavare
+* **Email:** [shreyashchavare@gmail.com](mailto:shreyashchavare@gmail.com)
+
+---
+
+### ✔️ *Focused on learning, improving, and building real-world software.*
