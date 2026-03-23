@@ -97,7 +97,7 @@ My focus lies in **system design, backend architecture, and integrating AI into 
 ## 🧩 Problem Solving (LeetCode)
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest" height="250"/>
+   <img src="https://leetcard.jacoblin.cool/Shreyash_Chavare_14?theme=dark&font=Karma&ext=heatmap" />
 </div>
 
 📌 Consistently practicing Data Structures & Algorithms to strengthen problem-solving skills.
